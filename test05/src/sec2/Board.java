@@ -30,7 +30,6 @@ public class Board {
 		this.content = content;
 	}
 	public Board(int bno, String title, String uname, String content, String resdate) {
-		super();
 		this.bno = bno;
 		this.title = title;
 		this.uname = uname;

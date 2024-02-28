@@ -1,8 +1,8 @@
 package sec1;
 //상속
 public class Animal {
-	private String name;
-	private boolean spine;
+	public String name;
+	public boolean spine;
 	public String getName() {
 		return name;
 	}

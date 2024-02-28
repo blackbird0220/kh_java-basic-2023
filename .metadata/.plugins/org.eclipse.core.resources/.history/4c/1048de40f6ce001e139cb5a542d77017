@@ -1,7 +1,0 @@
-package org.kh.java;
-
-public class Hello2 {
-		public static void main(String[] arges) {
-			System.out.println("김응원");
-		}
-}
